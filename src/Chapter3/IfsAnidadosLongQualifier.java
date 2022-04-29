@@ -8,7 +8,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class LongQualifier {
+public class IfsAnidadosLongQualifier {
 
     public static void main(String args[]){
 

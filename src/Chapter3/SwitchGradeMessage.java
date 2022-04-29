@@ -1,9 +1,8 @@
 package Chapter3;
 
 import java.util.Scanner;
-import java.util.logging.Handler;
 
-public class GradeMessage {
+public class SwitchGradeMessage {
 
     public  static void main(String args[]){
 

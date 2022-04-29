@@ -8,7 +8,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class LogicalOperatorLongQualifier {
+class LogicalOperatorLongQualifier {
 
     public static void main(String args[]){
 

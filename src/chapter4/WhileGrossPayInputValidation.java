@@ -9,7 +9,7 @@ package chapter4;
 
 import java.util.Scanner;
 
-public class GrossPayInputValidation {
+public class WhileGrossPayInputValidation {
 
     public static void main (String args[]){
 
